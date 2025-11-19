@@ -1,5 +1,7 @@
-streamlit
-pandas
 numpy
-scikit-learn
+pandas
+streamlit
+folium
 xgboost
+pickle
+scikit-learn
